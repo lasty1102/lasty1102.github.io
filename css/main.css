@@ -41,10 +41,9 @@ a {
   color: inherit;
 }
 
-/* This is set in partials/head.html and is populated via config */
 a:hover {
-  color: var(--accent-color);
-  fill: var(--accent-color);
+  color: #698fd5;
+  fill: #698fd5;
 }
 
 main#content {
